@@ -1,0 +1,97 @@
+customer_key,customer_id,customer_number,country,marital_status,gender,birthdate,create_date,name
+1,11000,AW00011000,Australia,Married,Male,1971-10-06,2025-10-06,Jon Yang
+2,11001,AW00011001,Australia,Single,Male,1976-05-10,2025-10-06,Eugene Huang
+3,11002,AW00011002,Australia,Married,Male,1971-02-09,2025-10-06,Ruben Torres
+4,11003,AW00011003,Australia,Single,Female,1973-08-14,2025-10-06,Christy Zhu
+5,11004,AW00011004,Australia,Single,Female,1979-08-05,2025-10-06,Elizabeth Johnson
+6,11005,AW00011005,Australia,Single,Male,1976-08-01,2025-10-06,Julio Ruiz
+7,11006,AW00011006,Australia,Single,Female,1976-12-02,2025-10-06,Janet Alvarez
+8,11007,AW00011007,Australia,Married,Male,1969-11-06,2025-10-06,Marco Mehta
+9,11008,AW00011008,Australia,Single,Female,1975-07-04,2025-10-06,Rob Verhoff
+10,11009,AW00011009,Australia,Single,Male,1969-09-29,2025-10-06,Shannon Carlson
+11,11010,AW00011010,Australia,Single,Female,1969-08-05,2025-10-06,Jacquelyn Suarez
+12,11011,AW00011011,Australia,Married,Male,1969-05-03,2025-10-06,Curtis Lu
+13,11012,AW00011012,United States,Married,Female,1979-01-14,2025-10-06,Lauren Walker
+14,11013,AW00011013,United States,Married,Male,1979-08-03,2025-10-06,Ian Jenkins
+15,11014,AW00011014,United States,Single,Female,1973-11-06,2025-10-06,Sydney Bennett
+16,11015,AW00011015,United States,Single,Female,1984-08-26,2025-10-06,Chloe Young
+17,11016,AW00011016,United States,Married,Male,1984-10-25,2025-10-07,Wyatt Hill
+18,11017,AW00011017,Australia,Single,Female,1949-12-24,2025-10-07,Shannon Wang
+19,11018,AW00011018,Australia,Single,Male,1955-10-06,2025-10-07,Clarence Rai
+20,11019,AW00011019,Canada,Single,Male,1983-09-04,2025-10-07,Luke Lal
+21,11020,AW00011020,Canada,Single,Male,1984-03-19,2025-10-07,Jordan King
+22,11021,AW00011021,United States,Single,Female,1984-03-02,2025-10-07,Destiny Wilson
+23,11022,AW00011022,United States,Married,Male,1984-04-10,2025-10-07,Ethan Zhang
+24,11023,AW00011023,United States,Married,Male,1984-04-09,2025-10-07,Seth Edwards
+25,11024,AW00011024,United States,Married,Male,1984-03-16,2025-10-07,Russell Xie
+26,11025,AW00011025,Australia,Married,Male,1951-06-22,2025-10-07,Alejandro Beck
+27,11026,AW00011026,Australia,Single,Male,1951-10-01,2025-10-07,Harold Sai
+28,11027,AW00011027,Australia,Married,Male,1952-06-05,2025-10-07,Jessie Zhao
+29,11028,AW00011028,Australia,Married,Female,1951-10-09,2025-10-07,Jill Jimenez
+30,11029,AW00011029,Australia,Married,Male,1952-06-19,2025-10-07,Jimmy Moreno
+31,11030,AW00011030,Australia,Married,Female,1958-02-18,2025-10-07,Bethany Yuan
+32,11031,AW00011031,Australia,Married,Female,1953-02-18,2025-10-07,Theresa Ramos
+33,11032,AW00011032,Australia,Married,Female,1952-12-08,2025-10-07,Denise Stone
+34,11033,AW00011033,Australia,Married,Male,1958-09-19,2025-10-07,Jaime Nath
+35,11034,AW00011034,Australia,Married,Female,1952-12-16,2025-10-07,Ebony Gonzalez
+36,11035,AW00011035,Australia,Married,Female,1953-08-23,2025-10-07,Wendy Dominguez
+37,11036,AW00011036,United States,Married,Female,1984-06-16,2025-10-07,Jennifer Russell
+38,11037,AW00011037,Canada,Single,Female,1983-05-27,2025-10-07,Chloe Garcia
+39,11038,AW00011038,Australia,Married,Female,1953-09-20,2025-10-07,Diana Hernandez
+40,11039,AW00011039,Australia,Married,Male,1954-06-16,2025-10-07,Marc Martin
+41,11040,AW00011040,United States,Married,Male,1983-01-29,2025-10-07,Jesse Murphy
+42,11041,AW00011041,United States,Married,Female,1983-04-15,2025-10-07,Amanda Carter
+43,11042,AW00011042,United States,Married,Female,1982-12-11,2025-10-07,Megan Sanchez
+44,11043,AW00011043,United States,Married,Male,1981-08-23,2025-10-07,Nathan Simmons
+45,11044,AW00011044,Australia,Married,Male,1954-11-21,2025-10-07,Adam Flores
+46,11045,AW00011045,Australia,Single,Male,1955-11-16,2025-10-07,Leonard Nara
+47,11046,AW00011046,Australia,Married,Female,1955-09-19,2025-10-07,Christine Yuan
+48,11047,AW00011047,Australia,Married,Female,1955-08-27,2025-10-07,Jaclyn Lu
+49,11048,AW00011048,Australia,Married,Male,1956-05-21,2025-10-07,Jeremy Powell
+50,11049,AW00011049,United States,Single,Female,1986-01-15,2025-10-07,Carol Rai
+51,11050,AW00011050,Australia,Married,Male,1957-03-06,2025-10-07,Alan Zheng
+52,11051,AW00011051,Australia,Single,Male,1957-01-31,2025-10-07,Daniel Johnson
+53,11052,AW00011052,Australia,Single,Female,1957-02-03,2025-10-07,Heidi Lopez
+54,11053,AW00011053,United States,Married,Female,1986-02-17,2025-10-07,Ana Price
+55,11054,AW00011054,Australia,Married,Female,1957-09-07,2025-10-07,Deanna Munoz
+56,11055,AW00011055,Australia,Married,Male,1957-09-02,2025-10-07,Gilbert Raje
+57,11056,AW00011056,Australia,Married,Female,1958-10-01,2025-10-07,Michele Nath
+58,11057,AW00011057,Australia,Married,Male,1970-04-07,2025-10-07,Carl Andersen
+59,11058,AW00011058,Australia,Married,Male,1965-04-23,2025-10-07,Marc Diaz
+60,11059,AW00011059,Australia,Single,Female,1959-09-29,2025-10-07,Ashlee Andersen
+61,11060,AW00011060,Australia,Married,Male,1959-09-14,2025-10-07,Jon Zhou
+62,11061,AW00011061,Australia,Married,Male,1976-02-20,2025-10-07,Todd Gao
+63,11062,AW00011062,United States,Married,Male,1981-03-01,2025-10-07,Noah Powell
+64,11063,AW00011063,United States,Single,Female,1980-10-04,2025-10-07,Angela Murphy
+65,11064,AW00011064,United States,Married,Male,1981-06-05,2025-10-07,Chase Reed
+66,11065,AW00011065,United States,Married,Female,1979-04-08,2025-10-07,Jessica Henderson
+67,11066,AW00011066,United States,Married,Female,1979-05-27,2025-10-07,Grace Butler
+68,11067,AW00011067,United States,Single,Male,1982-03-25,2025-10-07,Caleb Carter
+69,11068,AW00011068,Australia,Single,Female,1966-09-19,2025-10-07,Tiffany Liang
+70,11069,AW00011069,Australia,Single,Female,1966-09-17,2025-10-07,Carolyn Navarro
+71,11070,AW00011070,Australia,Married,Male,1960-10-02,2025-10-07,Willie Raji
+72,11071,AW00011071,Australia,Single,Female,1960-12-23,2025-10-07,Linda Serrano
+73,11072,AW00011072,Australia,Single,Female,1960-08-05,2025-10-07,Casey Luo
+74,11073,AW00011073,Australia,Single,Female,1962-02-11,2025-10-07,Amy Ye
+75,11074,AW00011074,Australia,Single,Male,1962-02-25,2025-10-07,Levi Arun
+76,11075,AW00011075,Australia,Single,Female,1963-05-16,2025-10-07,Felicia Jimenez
+77,11076,AW00011076,Australia,Single,Male,1963-01-10,2025-10-07,Blake Anderson
+78,11077,AW00011077,Australia,Single,Female,1963-03-19,2025-10-07,Leah Ye
+79,11078,AW00011078,Canada,Single,Female,1985-01-06,2025-10-07,Gina Martin
+80,11079,AW00011079,Australia,Single,Male,1970-03-07,2025-10-07,Donald Gonzalez
+81,11080,AW00011080,Australia,Married,Male,1965-01-13,2025-10-07,Damien Chander
+82,11081,AW00011081,United States,Married,Female,1972-01-21,2025-10-07,Savannah Baker
+83,11082,AW00011082,United States,Single,Female,1972-02-01,2025-10-07,Angela Butler
+84,11083,AW00011083,United States,Married,Female,1977-03-11,2025-10-07,Alyssa Cox
+85,11084,AW00011084,United States,Single,Male,1963-03-12,2025-10-07,Lucas Phillips
+86,11085,AW00011085,United States,Single,Female,1963-01-16,2025-10-07,Emily Johnson
+87,11086,AW00011086,United States,Married,Male,1963-06-22,2025-10-07,Ryan Brown
+88,11087,AW00011087,United States,Married,Female,1963-04-02,2025-10-07,Tamara Liang
+89,11088,AW00011088,United States,Married,Male,1963-05-25,2025-10-07,Hunter Davis
+90,11089,AW00011089,United States,Single,Female,1962-08-05,2025-10-07,Abigail Price
+91,11090,AW00011090,United States,Single,Male,1968-12-13,2025-10-07,Trevor Bryant
+92,11091,AW00011091,Canada,Married,Male,1962-10-02,2025-10-07,Dalton Perez
+93,11092,AW00011092,Australia,Married,Female,1972-11-02,2025-10-07,Cheryl Diaz
+94,11093,AW00011093,Australia,Married,Female,1978-09-06,2025-10-07,Aimee He
+95,11094,AW00011094,Australia,Single,Male,1967-09-29,2025-10-07,Cedric Ma
+96,11095,AW00011095,Australia,Single,Male,1968-02-29,2025-10-07,Chad Kumar
